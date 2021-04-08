@@ -1,6 +1,4 @@
 ###############################################################################
-# Author: Jose Bucio
-# Date: 03/11/2021
 # Description: Displays a math quiz for user to enter answer and check user's answer is correct
 ###############################################################################
 from random import randint
