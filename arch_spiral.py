@@ -1,6 +1,4 @@
 ###############################################################################
-# Author: Jose Bucio
-# Date: 03/11/2021
 # Description: Create an arch spiral using radians and degrees with respect to x and y axis
 ###############################################################################
 from turtle import *
