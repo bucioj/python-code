@@ -1,6 +1,4 @@
 ###############################################################################
-# Author: Jose Bucio
-# Date: 03/15/2021
 # Description: Allows to print all vowels in random order from vowels python file
 ###############################################################################
 
