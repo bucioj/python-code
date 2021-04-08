@@ -1,6 +1,4 @@
 ###############################################################################
-# Author: Jose Bucio
-# Date: 03/11/2021
 # Description: Rock, paper, and scissor game against the computer with random choices
 ###############################################################################
 import random
