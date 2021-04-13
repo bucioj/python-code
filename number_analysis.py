@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/15/2021
 # Description: Analysis a number list from user's input to determine the lowest,
 # highest, sum (total), and average number
 ################################################################################
