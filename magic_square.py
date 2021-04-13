@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/15/2021
 # Description: Determines whether a given square table is a Lo Shu Magic square
 # meaning sum of each row, each column, and each diagonal all add up to 15
 ################################################################################
