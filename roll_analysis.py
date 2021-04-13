@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/15/2021
 # Description: Determines the frequency for each sum of two six sided dice such
 # that each die is rolled at random
 ################################################################################
