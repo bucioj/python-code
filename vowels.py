@@ -1,6 +1,4 @@
 ###############################################################################
-# Author: Jose Bucio
-# Date: 03/15/2021
 # Description: Draws each vowel using turtle with specific coorindates and directions
 ###############################################################################
 
