@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/30/2021
 # Description: Programs to read the content from text file, tracks number of
 # words, lines, and average number of words per line
 ################################################################################
