@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/30/2021
 # Description: Calculates the average steps taken from user per month in one year
 ################################################################################
 
