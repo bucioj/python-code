@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/30/2021
 # Description: Programs collect a phone-number string of words and convert into
 # numbers only
 ################################################################################
