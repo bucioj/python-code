@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/30/2021
 # Description: Programs to write random number for each line depending on user's
 # input on how many numbers it should generate
 ################################################################################
