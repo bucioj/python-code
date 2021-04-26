@@ -1,8 +1,6 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/30/2021
 # Description: Determines the maximum, minimum, sum, and average from the file
-# random_numbers.txt created from ex. 33
+# random_numbers.txt created
 ################################################################################
 
 def main():
