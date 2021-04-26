@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 03/30/2021
 # Description: Programs to get the user's sentence and returns into Pig Latin
 # sentence or word(s)
 ################################################################################
