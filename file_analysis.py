@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/05/2021
 # Description: Programs that processes given two text files and produce the following
 # outputs by printed one per line in alphabetical order and correct formated colon, space, and number of times
 ################################################################################
