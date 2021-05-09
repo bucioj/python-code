@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/04/2021
 # Description: Programs to quiz the user by enter the capital from a particular
 # state of the United States
 ################################################################################
