@@ -1,7 +1,5 @@
 ################################################################################
-# 
 # Description: Programs to compare the two integers & see integer which is greater
-#
 ###############################################################################
 # Maximum between the two
 def max_of_two(first_number, second_number):
