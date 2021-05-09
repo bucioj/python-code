@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/07/2021
 # Description: Creates a bar chart on the spread of covid-19 disease in the state
 # of Indiana as of April 4 2021
 ################################################################################
