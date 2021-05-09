@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/15/2021
 # Description: Reads the weekly average gas prices in the U.S and plots as a line
 # graph during the year 2008
 ################################################################################
