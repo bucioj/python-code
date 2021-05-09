@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/15/2021
 # Description: Collects monthly sales data from user, store in a list and plot
 # the sales values as pie chart (one color of pie slice represents month)
 ################################################################################
