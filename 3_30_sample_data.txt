@@ -1,0 +1,7 @@
+Mark Bogdanov, Male, 01/13/1998, bogdanov@purdue.edu
+Claire Konz, Female, 20/10/2000, ckonz@gmail.com
+Steve Jobs, mal, 09/09/2002, sjobs@purdue.com
+ElonMusk, n/a, 04.09.1980, emusk@purdue.edu
+Tam Bureetes, male, 4-3-1997, tbureet@purdue.edu
+Yue Lin, female, 01/01/1978, ylin@purde.edu
+
