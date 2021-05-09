@@ -1,5 +1,5 @@
 ################################################################################
-# This program calculates the Reynolds number given temp, diameter, velocity
+# Description: This program calculates the Reynolds number given temp, diameter, velocity
 ################################################################################
 
 velocity = float(input("Enter the velocity of water in the pipe: "))
