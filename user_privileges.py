@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/25/2021
 # Description: Programs provide the user's profile including name, email, and privs
 ################################################################################
 
