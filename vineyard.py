@@ -1,5 +1,6 @@
-
-# This program calculates the area for a vineyard
+################################################################################
+# Description: This program calculates the area for a vineyard
+################################################################################
 
 #1. Input
 print('Enter the following quantities in feet.')
