@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/25/2021
 # Description: Programs to create a 6-, 10-, and 20-sided die and displays the results of rolling
 ################################################################################
 import random
