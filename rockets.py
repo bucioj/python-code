@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/25/2021
 # Description: Programs to display five rockets and call the cost per launch on each of
 # 5 rockets
 ################################################################################
