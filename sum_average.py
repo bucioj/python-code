@@ -1,6 +1,5 @@
 ################################################################################
-#
-# This program calculates sum & average from given number of inputs
+# Description: This program calculates sum & average from given number of inputs
 ################################################################################
 
 user_input = float(input("Enter a non-negative number (negative to quit): "))
