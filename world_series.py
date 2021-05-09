@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/04/2021
 # Description: Programs to return the winner of the team from a specific year and
 # return the number of wins from a specific team
 ################################################################################
