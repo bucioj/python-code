@@ -1,7 +1,5 @@
 ################################################################################
-# 
 # Description: Calculate the average and determine the grade from given score
-#
 ###############################################################################
 # Input Valid score
 def get_valid_score():
