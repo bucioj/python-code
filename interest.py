@@ -1,4 +1,6 @@
+################################################################################
 # Calculates the total amount by given interests
+################################################################################
 
 #1. Input
 print('Please enter the following quantities.')
