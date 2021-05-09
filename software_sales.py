@@ -1,4 +1,6 @@
-# Calculate the discount from given quantity
+################################################################################
+# Description: Calculate the discount from given quantity
+################################################################################
 
 quantity = float(input("Please input the number of packages to be purchased: "))
 discount = int()
