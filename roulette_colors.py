@@ -1,4 +1,6 @@
-# Calculates the roulette color by given pocket number 
+################################################################################
+# Description: Calculates the roulette color by given pocket number 
+################################################################################
 
 pocket_number = int(input("Please enter a pocket number: "))
 # On a roulette wheel, the pockets are numbered from 0 to 36. The colors of the pockets are as follows:
