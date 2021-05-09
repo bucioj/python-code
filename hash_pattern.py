@@ -1,5 +1,5 @@
 ###############################################################################
-# Programs to do has hash patterns & Range by prefer number of row hashes
+# Description: Programs to do has hash patterns & Range by prefer number of row hashes
 ###############################################################################
 
 row = int(input("Enter the number of lines: "))
