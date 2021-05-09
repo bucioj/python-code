@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/04/2021
 # Description: Programs to display the course information including room,
 # instructor, and time based on the user's input
 ################################################################################
