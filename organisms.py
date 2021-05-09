@@ -1,6 +1,5 @@
 ################################################################################
-#
-# Predict the approximate size of population of organisms
+# Descriptions: Predicts the approximate size of population of organisms
 # Calculate the average daily population & number of days left
 ################################################################################
 
