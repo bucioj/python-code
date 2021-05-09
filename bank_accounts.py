@@ -1,7 +1,5 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/25/2021
-# Description: Programs to
+# Description: Bank Account exercise
 ################################################################################
 class Account:
     def balance(self, deposit, withdraw, get_balance):
