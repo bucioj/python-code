@@ -1,5 +1,6 @@
-
-# This program calculates the roulette color by given pocket number
+################################################################################
+# Description: This program calculates the roulette color by given pocket number
+################################################################################
 
 number_of_seconds = int(input("Please enter a time in seconds. "))
 days = int(number_of_seconds // 86400)
