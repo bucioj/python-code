@@ -1,4 +1,6 @@
+################################################################################
 # Determines total amount of sugar, butter & flour of many cookies a user wants
+################################################################################
 
 #1. Input
 number_of_cookies = int(input('How many cookies do you want to make? '))
