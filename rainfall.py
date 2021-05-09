@@ -1,6 +1,5 @@
 ################################################################################
-#
-# Program to collect data & calculate average rainfall
+# Description: Program to collect data & calculate average rainfall
 # over a period of years
 ################################################################################
 
