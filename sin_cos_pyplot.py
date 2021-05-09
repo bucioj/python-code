@@ -1,6 +1,4 @@
 ################################################################################
-# Author: Jose Bucio
-# Date: 04/07/2021
 # Description: Draws a sine and cosine from 0 to 2pi with every pi/2 on x-axis and
 # between -1 and 1 on y-axis
 ################################################################################
